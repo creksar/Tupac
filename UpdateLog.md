@@ -15,7 +15,7 @@
   <p>AUGA1 -Tupac's Blessing <strong>HEAVILY</strong> nerfed</p>
   <p>MG36 - Heavy Sasha damage reduction 29->24 19->16 + spare magazines</p>
   <p>M9 - "totally normal M9" damage reduction</p>
-  <p>Version now avaible on cosmetic tank in lobby</p>
+  <p>Game Version now avaible on cosmetic tank in lobby</p>
       
       
 </body>
