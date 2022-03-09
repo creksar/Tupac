@@ -24,6 +24,8 @@
     
   <a href="https://www.roblox.com/games/9041920724/TEST-PLACE"><h4>VERSION 0.6.3 ALPHA</a></h4>
   <p> credit store <i>warning</i> implemented</p>
+  
+    <a href="https://www.roblox.com/games/9041920724/TEST-PLACE"><h4>VERSION 0.7.0 ALPHA</a></h4>
   <p>SKS -Primal Assault Rifle added to the game</p>
   <p>MP5K -Primal SMG added to the game</p>
   
