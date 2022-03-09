@@ -16,7 +16,10 @@
   <p>MG36 - Heavy Sasha damage reduction 29->24 19->16 + spare magazines</p>
   <p>M9 - "totally normal M9" damage reduction</p>
   <p>Game Version now avaible on cosmetic tank in lobby</p>
-      
+  
+  <a href="https://www.roblox.com/games/9041920724/TEST-PLACE"><h4>VERSION 0.6.2 ALPHA</a></h4>
+  <p>P90 -Pee90 fire rate increased by 200, unlocks rank 1</p>
+  <p>BFG -Lil' Benchpress Fire rate 130->150
       
 </body>
 </html>
