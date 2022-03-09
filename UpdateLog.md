@@ -20,7 +20,11 @@
   <a href="https://www.roblox.com/games/9041920724/TEST-PLACE"><h4>VERSION 0.6.2 ALPHA</a></h4>
   <p>P90 -Pee90 fire rate increased by 200, unlocks rank 1</p>
   <p>BFG -Lil' Benchpress Fire rate 130->150
-      
+  <p>Glock17 -Phantoms Prejudice DMG per range increased, sprint speed increased to 15</p>
+    
+  <a href="https://www.roblox.com/games/9041920724/TEST-PLACE"><h4>VERSION 0.6.3 ALPHA</a></h4>
+  <p> credit store <i>warning</i> implemented</p>
+
 </body>
 </html>
 
