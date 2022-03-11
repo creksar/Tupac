@@ -42,6 +42,10 @@
   <p> Unique -Holy Blood added to the game</p>
   <p> New map "suburbia" in the workings</p>
   
+    <a href="https://www.roblox.com/games/9041920724/TEST-PLACE"><h4>VERSION 0.8.2 ALPHA</a></h4>
+  <p> test place ported into new game/server due to framework breakage</p>
+  <p>points now more rewarding as compensation</p>
+  
 </body>
 </html>
 
