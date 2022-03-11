@@ -29,6 +29,11 @@
   <p>SKS -Primal Assault Rifle added to the game</p>
   <p>MP5K -Primal SMG added to the game</p>
   
+  <a href="https://www.roblox.com/games/9041920724/TEST-PLACE"><h4>VERSION 0.7.1 ALPHA</a></h4>
+  <p>SKS -Primal Assault Rifle fixed to correct weapon</p>
+  <p>MP5K -Primal SMG nametag added</p>
+  <p> TDM gamemode now only goes to 50 kills, timer 15->10</p>
+
 </body>
 </html>
 
