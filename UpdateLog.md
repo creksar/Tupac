@@ -38,6 +38,10 @@
   <p>Custom Gun implimentation now possible, mesh properties still collide</p>
   <p>"totally normal m9" head multiplier 5->10x</P>
   
+  <a href="https://www.roblox.com/games/9041920724/TEST-PLACE"><h4>VERSION 0.8.1 ALPHA</a></h4>
+  <p> Blood's Experiment added to the game</p>
+  <p> New map "suburbia" in the workings</p>
+  
 </body>
 </html>
 
